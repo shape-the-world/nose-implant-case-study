@@ -1,0 +1,10 @@
+.bloop
+tmp/*
+project/project
+target/
+*.ply
+*.pvsm
+*.h5
+metals*
+sbt.json
+settings.json
