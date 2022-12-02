@@ -2,6 +2,12 @@
 
 This repository holds the code for the case study nose-implant planning using GPMMs.
 
+### Presentation
+
+The case-study was presented at [3D-NordOst](https://www.gfai.de/aktuelles/veranstaltungen/workshop-3d-nordost/workshop). 
+
+* [Slides (pdf)](./slides/3dnord.pdf)
+
 ### How to run the programs
 
 1. Clone the repository
